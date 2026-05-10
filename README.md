@@ -1,2 +1,1 @@
-# iss-realtime-tracker
-ISS Real-Time Tracker
+# ISS Real-Time Tracker — Databricks Community Edition
